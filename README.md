@@ -3,7 +3,8 @@
 
 ![Macbook-Air-localhost](https://github.com/andrewchucrute/WeatherApp/assets/103382295/da2e277c-0b91-40d6-89ad-e8aa4034db2f)
 
-https://weatherappandrew.netlify.app
+# Para acessar o site em funcionamento: [Click aqui!](https://weatherappandrew.netlify.app)
+
 
 
 O WeatherApp é um aplicativo simples que fornece informações meteorológicas em tempo real para cidades de todo o mundo. Ele utiliza a API do OpenWeatherMap para obter os dados meteorológicos e exibi-los de forma amigável e intuitiva para o usuário.
