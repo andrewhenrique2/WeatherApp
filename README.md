@@ -1,7 +1,7 @@
 # WeatherApp
 
+![weatherappandrew netlify app_](https://github.com/andrewhenrique2/WeatherApp/assets/103382295/ed9f4cd1-6852-4811-97c9-2017220e98da)
 
-![Macbook-Air-localhost](https://github.com/andrewchucrute/WeatherApp/assets/103382295/da2e277c-0b91-40d6-89ad-e8aa4034db2f)
 
 # Para acessar o site em funcionamento: [Click aqui!](https://weatherappandrew.netlify.app)
 
